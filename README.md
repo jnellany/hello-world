@@ -1,7 +1,6 @@
 # hello-world
 Test repo
 
-Hello
+Hello 
 
-This is a test
-etc.
+this is a test / etc
